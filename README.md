@@ -14,6 +14,8 @@ To learn how to use git
 
 ## How To Contribute
 
+Please fork this repository.
+
 ## Copyright
 
 2014 Git.Training
