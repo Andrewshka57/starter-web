@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is the simple website project for showing how to use git and GitHub.
-Adding line
+Adding line. More changes
 
 ## Introduction
 
